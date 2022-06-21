@@ -18,6 +18,8 @@
   "homepage": "https://github.com/XdStarr/eris_js#readme",
   "dependencies": {
     "dotenv": "^16.0.1",
-    "eris": "^0.17.0"
+    "eris": "^0.17.0",
+    "mongoose": "^6.4.0",
+    "ora": "^5.4.1"
   }
 }

@@ -18,4 +18,6 @@ const client = new Client(process.env.TOKEN, {
 client.commands = new Collection();
 client.cooldowns = new Collection();
 
+require('./FileHandler')(client);
+
 client.connect();
