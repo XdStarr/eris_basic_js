@@ -1,7 +1,7 @@
-Eris [![NPM version](https://img.shields.io/npm/v/eris.svg?style=flat-square&color=informational)](https://npmjs.com/package/eris)
+Eris Bot Example[![NPM version](https://img.shields.io/npm/v/eris.svg?style=flat-square&color=informational)](https://npmjs.com/package/eris)
 ====
 
-A Node.js wrapper for interfacing with Discord.
+A basic bot capable of handling events and commands which use a custom prefix.
 
 Installing
 ----------
