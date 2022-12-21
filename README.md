@@ -16,15 +16,16 @@ npm install
 
 
 
-Event File Example
+Example usage
 -----------------
+
+Event File Example
 
 ```js
 event
 ```
 
 Command File Example
------------------
 
 ```js
 command
