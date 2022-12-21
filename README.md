@@ -8,6 +8,12 @@ Installing
 
 You will need NodeJS 10.4+.
 
+```js
+npm install
+```
+
+^ In order to install all dependencies
+
 
 
 Event File Example
@@ -24,3 +30,9 @@ Command File Example
 command
 ```
 
+
+# Links
+
+- [Documentation][documentation]
+
+[documentation]: https://discord.js.org/#/docs
