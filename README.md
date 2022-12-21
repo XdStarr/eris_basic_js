@@ -3,5 +3,24 @@ Eris [![NPM version](https://img.shields.io/npm/v/eris.svg?style=flat-square&col
 
 A Node.js wrapper for interfacing with Discord.
 
-# Eris_JS Bot
- A Discord Bot made with eris.js
+Installing
+----------
+
+You will need NodeJS 10.4+.
+
+
+
+Event File Example
+-----------------
+
+```js
+event
+```
+
+Command File Example
+-----------------
+
+```js
+command
+```
+
